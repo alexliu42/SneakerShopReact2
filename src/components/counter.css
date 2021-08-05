@@ -1,0 +1,33 @@
+img{
+	height: 134px;
+	width: 200px;
+}
+
+h4{
+	font-size: 1rem;
+	margin-left: 1.1rem;
+}
+
+ul{
+	font-size: 0.9rem;
+	font-style: italic;
+}
+
+form{ margin-left: 0.4rem;
+	  margin-bottom: 3rem;
+	 }
+
+a{
+	color:black;
+}
+
+h1{
+	text-align: center;
+}
+
+img{
+	margin-left: 34%;
+	margin-right: 34%;
+	width: auto;
+	margin-top: 8%;
+}
